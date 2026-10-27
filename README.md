@@ -1,5 +1,7 @@
 # SahamLab — Belajar Saham Indonesia
 
+https://project-saham-dhaval.streamlit.app/
+
 Proyek belajar **data analyst + saham Indonesia** untuk pemula. Isinya: data historis nyata,
 analisis Python yang bisa dipakai ulang, dashboard Streamlit lokal, 9 modul pembelajaran,
 simulasi modal **Rp700.000**, paper trading, pengujian, notebook, dan laporan.
