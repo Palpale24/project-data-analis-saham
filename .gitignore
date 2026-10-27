@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data pengguna: progres belajar dan paper trading bersifat lokal/pribadi
+data/user/*
+!data/user/.gitkeep
+
+# Rahasia (jangan pernah commit kredensial/API key)
+.streamlit/secrets.toml
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Log
+*.log

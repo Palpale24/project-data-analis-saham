@@ -1,0 +1,14 @@
+ticker,name,sector,is_benchmark
+ADRO.JK,Alamtri Resources,Energi,False
+AKRA.JK,AKR Corporindo,Energi,False
+ANTM.JK,Aneka Tambang,Barang Baku,False
+ASII.JK,Astra International,Industri,False
+BBCA.JK,Bank Central Asia,Keuangan,False
+BBRI.JK,Bank Rakyat Indonesia,Keuangan,False
+BMRI.JK,Bank Mandiri,Keuangan,False
+GOTO.JK,GoTo Gojek Tokopedia,Teknologi,False
+ICBP.JK,Indofood CBP,Konsumen Primer,False
+SMGR.JK,Semen Indonesia,Barang Baku,False
+TLKM.JK,Telkom Indonesia,Telekomunikasi,False
+UNVR.JK,Unilever Indonesia,Konsumen Primer,False
+^JKSE,IHSG (Indeks Harga Saham Gabungan),Benchmark,True

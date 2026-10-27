@@ -1,0 +1,129 @@
+{
+  "source": "Yahoo Finance via yfinance",
+  "source_url": "https://finance.yahoo.com",
+  "retrieved_at_wib": "2026-10-27T09:53:57+07:00",
+  "requested_start": "2019-01-01",
+  "requested_end_exclusive": "2026-10-27",
+  "price_columns": {
+    "close": "Harga penutupan biasa (belum disesuaikan)",
+    "adj_close": "Harga penutupan disesuaikan untuk split dan dividen menurut Yahoo Finance"
+  },
+  "notes": [
+    "Yahoo Finance adalah sumber pihak ketiga, bukan sumber resmi BEI.",
+    "Data dapat terlambat, tidak lengkap, atau berubah tanpa pemberitahuan.",
+    "Baris tanggal hari ini tidak diunduh agar harga yang belum final tidak dipakai.",
+    "Untuk keputusan penting, cocokkan dengan laporan resmi perusahaan dan data BEI."
+  ],
+  "benchmark_ticker": "^JKSE",
+  "total_rows": 23856,
+  "total_tickers": 13,
+  "date_min": "2019-01-01",
+  "date_max": "2026-10-26",
+  "success": [
+    {
+      "ticker": "BBCA.JK",
+      "name": "Bank Central Asia",
+      "rows": 1899,
+      "first_date": "2019-01-01",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/BBCA_JK.csv"
+    },
+    {
+      "ticker": "BBRI.JK",
+      "name": "Bank Rakyat Indonesia",
+      "rows": 1899,
+      "first_date": "2019-01-01",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/BBRI_JK.csv"
+    },
+    {
+      "ticker": "BMRI.JK",
+      "name": "Bank Mandiri",
+      "rows": 1899,
+      "first_date": "2019-01-01",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/BMRI_JK.csv"
+    },
+    {
+      "ticker": "TLKM.JK",
+      "name": "Telkom Indonesia",
+      "rows": 1898,
+      "first_date": "2019-01-01",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/TLKM_JK.csv"
+    },
+    {
+      "ticker": "ASII.JK",
+      "name": "Astra International",
+      "rows": 1898,
+      "first_date": "2019-01-01",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/ASII_JK.csv"
+    },
+    {
+      "ticker": "ANTM.JK",
+      "name": "Aneka Tambang",
+      "rows": 1899,
+      "first_date": "2019-01-01",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/ANTM_JK.csv"
+    },
+    {
+      "ticker": "ADRO.JK",
+      "name": "Alamtri Resources",
+      "rows": 1898,
+      "first_date": "2019-01-01",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/ADRO_JK.csv"
+    },
+    {
+      "ticker": "AKRA.JK",
+      "name": "AKR Corporindo",
+      "rows": 1899,
+      "first_date": "2019-01-01",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/AKRA_JK.csv"
+    },
+    {
+      "ticker": "ICBP.JK",
+      "name": "Indofood CBP",
+      "rows": 1898,
+      "first_date": "2019-01-01",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/ICBP_JK.csv"
+    },
+    {
+      "ticker": "UNVR.JK",
+      "name": "Unilever Indonesia",
+      "rows": 1899,
+      "first_date": "2019-01-01",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/UNVR_JK.csv"
+    },
+    {
+      "ticker": "SMGR.JK",
+      "name": "Semen Indonesia",
+      "rows": 1899,
+      "first_date": "2019-01-01",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/SMGR_JK.csv"
+    },
+    {
+      "ticker": "GOTO.JK",
+      "name": "GoTo Gojek Tokopedia",
+      "rows": 1085,
+      "first_date": "2022-04-11",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/GOTO_JK.csv"
+    },
+    {
+      "ticker": "^JKSE",
+      "name": "IHSG (Indeks Harga Saham Gabungan)",
+      "rows": 1886,
+      "first_date": "2019-01-02",
+      "last_date": "2026-10-26",
+      "raw_file": "data/raw/historical/INDEX_JKSE.csv"
+    }
+  ],
+  "failures": []
+}
